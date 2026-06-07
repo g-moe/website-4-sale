@@ -35,19 +35,3 @@ There are no fallback listing values. All npm scripts require these env vars, so
 ```sh
 npm run check
 ```
-
-## Cloudflare Pages
-
-Use these build settings:
-
-- Build command: `npm run build`
-- Build output directory: `dist`
-
-For each domain, create a separate Cloudflare Pages project from this same repo and set these production environment variables:
-
-- `VITE_DOMAIN`
-- `VITE_TAGLINE`
-- `VITE_ASKING_PRICE`
-- `VITE_CONTACT_EMAIL`
-
-That lets every Cloudflare Pages project deploy the same template with different listing content.
