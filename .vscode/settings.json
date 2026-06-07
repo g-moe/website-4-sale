@@ -1,0 +1,9 @@
+{
+  "css.validate": false,
+  "editor.defaultFormatter": "oxc.oxc-vscode",
+  "editor.formatOnSave": true,
+  "editor.tabSize": 2,
+  "files.eol": "\n",
+  "tailwindCSS.experimental.configFile": "src/styles.css",
+  "typescript.tsdk": "node_modules/typescript/lib"
+}

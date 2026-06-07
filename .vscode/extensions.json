@@ -1,0 +1,9 @@
+{
+  "recommendations": [
+    "bradlc.vscode-tailwindcss",
+    "oxc.oxc-vscode",
+    "unifiedjs.vscode-mdx",
+    "usernamehw.errorlens",
+    "vitest.explorer"
+  ]
+}
